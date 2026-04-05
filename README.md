@@ -117,6 +117,22 @@ Public-facing showcase for a modular construction production control console cur
 - Stack: React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron
 - Goal: turn a production dashboard into a real operating system for modular construction teams
 
+### hypebot-rs
+
+Public-facing showcase for a private Rust-based Hyperliquid trading bot focused on long-running reliability, typed market pipelines, and disciplined execution flow.
+
+面向外部展示的 Rust 量化交易系统项目，源码保持私有，重点展示它在长期运行稳定性、强类型市场数据管线和执行纪律上的工程化设计。
+
+<p>
+  <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
+</p>
+
+- Showcase repo: [YSKM523/hypebot-rs-showcase](https://github.com/YSKM523/hypebot-rs-showcase)
+- Source repo: private
+- Focus: Hyperliquid trading infrastructure, websocket resilience, serialized order execution, state persistence
+- Stack: Rust, Tokio, WebSocket, Reqwest, TOML config, Discord webhook notifications
+- Why it stands out: built more like a service system than a toy bot script
+
 ## Operating Principles | 做事原则
 
 - Build with urgency, refine with taste
