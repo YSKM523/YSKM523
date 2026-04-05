@@ -77,6 +77,20 @@ Most of what I make lives at the intersection of AI, workflow design, and small 
   </tr>
 </table>
 
+## Selected Project | 代表项目
+
+### Tensor Proxies
+
+Live proxy infrastructure product for teams that need clear pricing, multi-region coverage, and fast fulfillment.
+
+面向需要清晰价格、多区域覆盖和快速交付团队的在线代理产品。
+
+- Website: [tensorproxies.com](https://tensorproxies.com/)
+- Public overview repo: [YSKM523/tensor-proxies](https://github.com/YSKM523/tensor-proxies)
+- Focus: Datacenter, Static Residential ISP, and Rotating Residential ISP proxy packages
+- Status: Live
+- Codebase: Private
+
 ## Operating Principles | 做事原则
 
 - Build with urgency, refine with taste
