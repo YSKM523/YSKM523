@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="YSKM banner" width="100%" />
+</p>
+
 <h1 align="center">YSKM</h1>
 
 <p align="center">
