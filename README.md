@@ -12,6 +12,11 @@
   <strong>AI-native products</strong> · <strong>Fast execution</strong> · <strong>Product taste</strong>
 </p>
 
+<p align="center">
+  <a href="https://github.com/YSKM523">GitHub</a> ·
+  <a href="https://github.com/YSKM523/YSKM523">Profile Repo</a>
+</p>
+
 ---
 
 ## Positioning | 我的定位
@@ -90,6 +95,7 @@ Most of what I make lives at the intersection of AI, workflow design, and small 
 - 值得上线和继续打磨的产品实验
 - 会越来越清晰的文档和展示方式
 
-## Contact | 联系方式
+## Socials | 社交链接
 
 - GitHub: [@YSKM523](https://github.com/YSKM523)
+- Profile: [YSKM523/YSKM523](https://github.com/YSKM523/YSKM523)
