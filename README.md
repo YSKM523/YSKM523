@@ -83,7 +83,7 @@ Most of what I make lives at the intersection of AI, workflow design, and small 
 
 <p>
   <a href="https://tensorproxies.com/">
-    <img src="https://raw.githubusercontent.com/YSKM523/tensor-proxies/main/assets/homepage.png" alt="Tensor Proxies showcase" width="100%" />
+    <img src="https://raw.githubusercontent.com/YSKM523/tensor-proxies/main/assets/homepage-showcase.png" alt="Tensor Proxies homepage showcase" width="100%" />
   </a>
 </p>
 
@@ -97,7 +97,8 @@ Private-code proxy infrastructure product built for operators and teams that nee
 
 - Website: [tensorproxies.com](https://tensorproxies.com/)
 - Public overview repo: [YSKM523/tensor-proxies](https://github.com/YSKM523/tensor-proxies)
-- Positioning: Premium proxy product with a tighter lineup and stronger trust framing
+- Positioning: Premium proxy product with a tighter lineup, clearer package structure, and stronger trust framing
+- Preview pages: Homepage, plans, testimonials, use cases, blog, and customer access flow
 - Trust signals: Private since January 2022, public sales since March 2026, U.S.-based operations
 
 ## Operating Principles | 做事原则
