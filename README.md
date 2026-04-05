@@ -101,6 +101,22 @@ Private-code proxy infrastructure product built for operators and teams that nee
 - Preview pages: Homepage, plans, testimonials, use cases, blog, and customer access flow
 - Trust signals: Private since January 2022, public sales since March 2026, U.S.-based operations
 
+### Modular_OS
+
+Public-facing showcase for a modular construction production control console currently under active development.
+
+面向模块化建筑生产场景的控制台产品，目前正在持续开发中，并通过公开展示仓库对外同步项目方向与进展。
+
+<p>
+  <strong>Active Development</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
+</p>
+
+- Showcase repo: [YSKM523/modular_os-showcase](https://github.com/YSKM523/modular_os-showcase)
+- Source repo: private
+- Focus: factory-floor execution, WIP visibility, blocker handling, dispatch tracking, realtime operations
+- Stack: React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron
+- Goal: turn a production dashboard into a real operating system for modular construction teams
+
 ## Operating Principles | 做事原则
 
 - Build with urgency, refine with taste
