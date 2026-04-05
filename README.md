@@ -81,15 +81,24 @@ Most of what I make lives at the intersection of AI, workflow design, and small 
 
 ### Tensor Proxies
 
-Live proxy infrastructure product for teams that need clear pricing, multi-region coverage, and fast fulfillment.
+<p>
+  <a href="https://tensorproxies.com/">
+    <img src="https://raw.githubusercontent.com/YSKM523/tensor-proxies/main/assets/homepage.png" alt="Tensor Proxies showcase" width="100%" />
+  </a>
+</p>
 
-面向需要清晰价格、多区域覆盖和快速交付团队的在线代理产品。
+Private-code proxy infrastructure product built for operators and teams that need clear pricing, multi-region inventory, and a direct purchase flow.
+
+面向运营团队与高频工作流场景的代理产品，强调清晰定价、多区域库存和直接购买体验，核心代码保持私有。
+
+<p>
+  <strong>Live</strong> · <strong>Private Codebase</strong> · <strong>Datacenter / Static ISP / Rotating ISP</strong>
+</p>
 
 - Website: [tensorproxies.com](https://tensorproxies.com/)
 - Public overview repo: [YSKM523/tensor-proxies](https://github.com/YSKM523/tensor-proxies)
-- Focus: Datacenter, Static Residential ISP, and Rotating Residential ISP proxy packages
-- Status: Live
-- Codebase: Private
+- Positioning: Premium proxy product with a tighter lineup and stronger trust framing
+- Trust signals: Private since January 2022, public sales since March 2026, U.S.-based operations
 
 ## Operating Principles | 做事原则
 
