@@ -5,15 +5,15 @@
 <h1 align="center">YSKM</h1>
 
 <p align="center">
-  Founder-minded indie builder creating AI tools, internet products, and sharp software with real utility.
+  Founder-minded builder shipping AI tools, operator software, and small internet products with real utility.
 </p>
 
 <p align="center">
-  偏创业者视角的独立开发者，专注于打造有真实价值的 AI 工具、互联网产品和更锋利的软件。
+  偏创业者视角的独立开发者，专注于打造有真实价值的 AI 工具、运营软件和更锋利的互联网产品。
 </p>
 
 <p align="center">
-  <strong>AI-native products</strong> · <strong>Fast execution</strong> · <strong>Product taste</strong>
+  <strong>AI-native products</strong> · <strong>B2B systems</strong> · <strong>Fast execution</strong>
 </p>
 
 <p align="center">
@@ -23,61 +23,35 @@
 
 ---
 
-## Positioning | 我的定位
+## Overview | 总览
 
-I build like a founder, not a feature factory.
+I build like a founder, not a feature factory. The work here is centered on products that solve operational problems, remove workflow friction, and feel commercially usable beyond a demo.
 
-I care about product clarity, speed, leverage, and whether something is actually useful after the demo.
-Most of what I make lives at the intersection of AI, workflow design, and small but powerful internet products.
+Most of my projects sit at the intersection of AI, workflow design, infrastructure, and focused software businesses. The goal is not just to ship features. The goal is to build products with a clear market shape, a clean system model, and enough edge to matter.
 
-我更像是在做产品的人，而不是单纯堆功能的人。
+我更像是在做产品的人，而不是单纯堆功能的人。这里的项目重点不是功能堆叠，而是解决真实运营问题、降低工作流摩擦，并且让产品在演示之外也具备商业可用性。
 
-我在意的是产品是否清晰、推进是否足够快、杠杆是否够高，以及它在演示之外是不是真的有用。
-我现在的大部分工作都集中在 AI、工作流设计，以及小而强的互联网产品交叉点上。
+我现在的大部分项目集中在 AI、工作流设计、基础设施和垂直软件产品的交叉点上。目标不是只把东西做出来，而是把它做成定位清晰、系统合理、真正能成立的产品。
 
-## What I’m Building | 我在构建什么
+## Current Focus | 当前重点
 
-- AI workflow products that reduce friction and save time
-- Small software businesses with strong utility and fast iteration loops
-- Interfaces that feel simple on the surface and thoughtful underneath
-- Internal experiments that can grow into public products
+- AI workflow tools that improve execution, research, and decision support
+- B2B products that turn messy operational work into structured software flows
+- Small software businesses with tight iteration loops and clear positioning
+- Private codebases paired with public-facing architecture or product repos
 
-- 能降低摩擦、节省时间的 AI 工作流产品
-- 有真实用途、能快速迭代的小型软件业务
-- 表面简单、底层讲究的产品界面
-- 从内部实验长成公开产品的项目
+- 降低摩擦、提升执行效率的 AI 工作流工具
+- 把混乱运营流程变成结构化软件流程的 B2B 产品
+- 反馈周期短、定位清晰、可以快速迭代的软件业务
+- 私有源码配合公开产品页或架构页的项目体系
 
-## Current Bets | 当前押注
+## What This GitHub Represents | 这个 GitHub 在表达什么
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>AI Workflow Systems</h3>
-      <p>
-        Building AI-first tools for execution, research, and decision support.
-        The goal is not novelty. The goal is to remove friction from real work.
-      </p>
-      <p>
-        正在做面向执行、研究和决策支持的 AI 工作流工具。
-        目标不是炫技，而是实打实地降低真实工作的阻力。
-      </p>
-      <p><strong>Status:</strong> Building</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Micro SaaS Experiments</h3>
-      <p>
-        Exploring small software products with clear positioning,
-        tight loops, and a strong bias toward shipping.
-      </p>
-      <p>
-        正在探索一批定位清晰、反馈周期短、强调上线速度的小型软件产品。
-      </p>
-      <p><strong>Status:</strong> Active</p>
-    </td>
-  </tr>
-</table>
+This profile is not meant to be a dump of random repos. It is a curated layer over private product work, public-facing architecture repos, and selected internet products that are actually being developed.
 
-## Selected Project | 代表项目
+这个主页不是随意堆仓库，而是对我正在做的产品做一层有选择的公开表达。它会保留私有源码，同时通过公开仓库展示产品定位、系统方向和项目质量。
+
+## Selected Products | 代表项目
 
 ### Tensor Proxies
 
@@ -103,9 +77,9 @@ Private-code proxy infrastructure product built for operators and teams that nee
 
 ### Modular_OS
 
-Public-facing showcase for a modular construction production control console currently under active development.
+Public-facing platform repo for a modular construction production control system currently under active development.
 
-面向模块化建筑生产场景的控制台产品，目前正在持续开发中，并通过公开展示仓库对外同步项目方向与进展。
+面向模块化建筑生产场景的控制软件，目前持续开发中，并通过公开平台仓库对外同步产品方向与项目进展。
 
 <p>
   <strong>Active Development</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
@@ -149,7 +123,7 @@ Public overview repo for a private campus task marketplace project built around 
 - Stack: React, Node.js, Express, Socket.IO, Prisma
 - Edge: structured local marketplace instead of chat-based coordination or fixed-price listings
 
-## Operating Principles | 做事原则
+## Build Style | 做事方式
 
 - Build with urgency, refine with taste
 - Prefer leverage over busywork
@@ -161,15 +135,15 @@ Public overview repo for a private campus task marketplace project built around 
 - 少做一点，但每次都更有分量
 - 让原型长成产品，而不只是截图
 
-## What This GitHub Will Hold | 这个主页会放什么
+## What You’ll Find Here | 这里会持续放什么
 
 - Carefully selected public work
-- Product experiments worth shipping
-- Cleaner documentation and sharper presentation over time
+- Product repos that explain what is being built and why it matters
+- Sharper documentation and stronger public presentation over time
 
 - 精选后的公开作品
-- 值得上线和继续打磨的产品实验
-- 会越来越清晰的文档和展示方式
+- 能说明产品方向和价值的公开仓库
+- 会越来越清晰的文档、展示和产品表达
 
 ## Socials | 社交链接
 
