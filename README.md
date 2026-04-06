@@ -111,7 +111,7 @@ Public-facing showcase for a modular construction production control console cur
   <strong>Active Development</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
 </p>
 
-- Showcase repo: [YSKM523/modular_os-showcase](https://github.com/YSKM523/modular_os-showcase)
+- Platform repo: [YSKM523/modular-os-platform](https://github.com/YSKM523/modular-os-platform)
 - Source repo: private
 - Focus: factory-floor execution, WIP visibility, blocker handling, dispatch tracking, realtime operations
 - Stack: React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron
