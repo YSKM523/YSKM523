@@ -127,7 +127,7 @@ Public-facing showcase for a private Rust-based Hyperliquid trading bot focused 
   <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
 </p>
 
-- Showcase repo: [YSKM523/hypebot-rust-showcase](https://github.com/YSKM523/hypebot-rust-showcase)
+- Showcase repo: [YSKM523/hypebot-rust-architecture](https://github.com/YSKM523/hypebot-rust-architecture)
 - Source repo: private
 - Focus: Hyperliquid trading infrastructure, websocket resilience, serialized order execution, state persistence
 - Stack: Rust, Tokio, WebSocket, Reqwest, TOML config, Discord webhook notifications
