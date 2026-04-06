@@ -133,6 +133,22 @@ Public architecture repo for a private Rust-based Hyperliquid trading system foc
 - Stack: Rust, Tokio, WebSocket, Reqwest, TOML config
 - Edge: reads more like a systems project than a bot demo
 
+### TaskMarket
+
+Public overview repo for a private campus task marketplace project built around bid-based matching, realtime coordination, and marketplace-style trust signals.
+
+面向外部展示的校园任务平台项目，源码保持私有，重点突出竞价撮合、实时协同、订单流转和更像市场而不是公告板的产品方向。
+
+<p>
+  <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Overview</strong>
+</p>
+
+- Overview repo: [YSKM523/taskmarket-overview](https://github.com/YSKM523/taskmarket-overview)
+- Source repo: private
+- Focus: campus task marketplace, bid-based matching, order flow, realtime coordination
+- Stack: React, Node.js, Express, Socket.IO, Prisma
+- Edge: structured local marketplace instead of chat-based coordination or fixed-price listings
+
 ## Operating Principles | 做事原则
 
 - Build with urgency, refine with taste
