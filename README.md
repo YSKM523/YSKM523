@@ -53,75 +53,68 @@ This profile is not meant to be a dump of random repos. It is a curated layer ov
 
 ## Selected Products | 代表项目
 
-### Tensor Proxies
-
-<p>
-  <a href="https://tensorproxies.com/">
-    <img src="https://raw.githubusercontent.com/YSKM523/tensor-proxies/main/assets/homepage-showcase.png" alt="Tensor Proxies homepage showcase" width="100%" />
-  </a>
-</p>
-
-Private-code proxy infrastructure product built for operators and teams that need clear pricing, multi-region inventory, and a direct purchase flow.
-
-面向运营团队与高频工作流场景的代理产品，强调清晰定价、多区域库存和直接购买体验，核心代码保持私有。
-
-<p>
-  <strong>Live</strong> · <strong>Private Codebase</strong> · <strong>Datacenter / Static ISP / Rotating ISP</strong>
-</p>
-
-- Website: [tensorproxies.com](https://tensorproxies.com/)
-- Public overview repo: [YSKM523/tensor-proxies](https://github.com/YSKM523/tensor-proxies)
-- Positioning: Premium proxy product with a tighter lineup, clearer package structure, and stronger trust framing
-- Preview pages: Homepage, plans, testimonials, use cases, blog, and customer access flow
-- Trust signals: Private since January 2022, public sales since March 2026, U.S.-based operations
-
-### Modular_OS
-
-Public-facing platform repo for a modular construction production control system currently under active development.
-
-面向模块化建筑生产场景的控制软件，目前持续开发中，并通过公开平台仓库对外同步产品方向与项目进展。
-
-<p>
-  <strong>Active Development</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
-</p>
-
-- Platform repo: [YSKM523/modular-os-platform](https://github.com/YSKM523/modular-os-platform)
-- Source repo: private
-- Focus: factory-floor execution, WIP visibility, blocker handling, dispatch tracking, realtime operations
-- Stack: React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron
-- Goal: turn a production dashboard into a real operating system for modular construction teams
-
-### hypebot-rs
-
-Public architecture repo for a private Rust-based Hyperliquid trading system focused on typed pipelines, Tokio concurrency, serialized execution, and runtime resilience.
-
-面向外部展示的 Rust 交易系统架构仓库，源码保持私有，重点突出强类型管线、Tokio 并发模型、执行纪律和长期运行稳定性。
-
-<p>
-  <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
-</p>
-
-- Showcase repo: [YSKM523/hypebot-rust-architecture](https://github.com/YSKM523/hypebot-rust-architecture)
-- Source repo: private
-- Focus: Hyperliquid trading infrastructure, typed event pipelines, serialized execution, runtime recovery
-- Stack: Rust, Tokio, WebSocket, Reqwest, TOML config
-- Edge: reads more like a systems project than a bot demo
-
-### TaskMarket
-
-Public overview repo for a private campus task marketplace project built around bid-based matching, realtime coordination, and marketplace-style trust signals.
-
-面向外部展示的校园任务平台项目，源码保持私有，重点突出竞价撮合、实时协同、订单流转和更像市场而不是公告板的产品方向。
-
-<p>
-  <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Overview</strong>
-</p>
-
-- Overview repo: [YSKM523/taskmarket-overview](https://github.com/YSKM523/taskmarket-overview)
-- Source repo: private
-- Focus: campus task marketplace, bid-based matching, order flow, realtime coordination
-- Stack: React, Node.js, Express, Socket.IO, Prisma
-- Edge: structured local marketplace instead of chat-based coordination or fixed-price listings
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Tensor Proxies</h3>
+      <p><strong>Live</strong> · <strong>Private Codebase</strong> · <strong>Infrastructure Product</strong></p>
+      <p>
+        Proxy infrastructure product built for operators and teams that need clear pricing,
+        multi-region inventory, and a direct purchase flow.
+      </p>
+      <p>
+        面向运营团队与高频工作流场景的代理产品，强调清晰定价、多区域库存和直接购买体验，
+        核心代码保持私有。
+      </p>
+      <p><strong>Focus:</strong> datacenter, static ISP, rotating ISP, purchase flow, trust framing</p>
+      <p><strong>Surface:</strong> <a href="https://tensorproxies.com/">Website</a> · <a href="https://github.com/YSKM523/tensor-proxies">Public overview</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Modular_OS</h3>
+      <p><strong>Active Development</strong> · <strong>Private Source</strong> · <strong>B2B Operations Software</strong></p>
+      <p>
+        Production control software for modular construction teams, shaped around factory-floor execution,
+        WIP visibility, blocker handling, dispatch tracking, and realtime operations.
+      </p>
+      <p>
+        面向模块化建筑生产场景的控制软件，重点在车间执行、在制品可视化、阻塞处理、
+        派工跟踪和实时运营。
+      </p>
+      <p><strong>Stack:</strong> React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron</p>
+      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/modular-os-platform">Platform repo</a> · private source</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>hypebot-rs</h3>
+      <p><strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Rust Systems Project</strong></p>
+      <p>
+        Hyperliquid trading infrastructure built around typed pipelines, Tokio concurrency,
+        serialized execution, and runtime resilience.
+      </p>
+      <p>
+        面向外部展示的 Rust 交易系统项目，重点突出强类型管线、Tokio 并发模型、
+        执行纪律和长期运行稳定性。
+      </p>
+      <p><strong>Stack:</strong> Rust, Tokio, WebSocket, Reqwest, TOML</p>
+      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/hypebot-rust-architecture">Architecture repo</a> · private source</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>TaskMarket</h3>
+      <p><strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Marketplace Product</strong></p>
+      <p>
+        Campus task marketplace built around bid-based matching, realtime coordination,
+        order flow, and marketplace-style trust signals.
+      </p>
+      <p>
+        面向校园场景的任务平台，核心是竞价撮合、实时协同、订单流转，
+        以及比群聊和公告板更结构化的产品模型。
+      </p>
+      <p><strong>Stack:</strong> React, Node.js, Express, Socket.IO, Prisma</p>
+      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/taskmarket-overview">Overview repo</a> · private source</p>
+    </td>
+  </tr>
+</table>
 
 ## Build Style | 做事方式
 
