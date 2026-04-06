@@ -100,6 +100,20 @@ Public overview repo for a private campus task marketplace project built around 
 - Stack: React, Node.js, Express, Socket.IO, Prisma
 - Edge: structured local marketplace instead of chat-based coordination or fixed-price listings
 
+### lakebbs
+
+Public overview repo for a private city-aware Chinese local community platform focused on Thunder Bay, Sudbury, and smaller Northern Ontario city flows.
+
+<p>
+  <strong>Active Rebuild</strong> · <strong>Private Source</strong> · <strong>Public Overview</strong>
+</p>
+
+- Overview repo: [YSKM523/lakebbs-ca](https://github.com/YSKM523/lakebbs-ca)
+- Source repo: private
+- Focus: local information infrastructure, city-based routing, rentals, jobs, second-hand, immigration, community content
+- Stack: JavaScript, Vue 3, Vite, Node.js, Express, Sequelize
+- Edge: more like a structured local platform than a plain forum clone
+
 ## Build Style
 
 - Build with urgency, refine with taste
