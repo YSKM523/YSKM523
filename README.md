@@ -53,68 +53,49 @@ This profile is not meant to be a dump of random repos. It is a curated layer ov
 
 ## Selected Products | 代表项目
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Tensor Proxies</h3>
-      <p><strong>Live</strong> · <strong>Private Codebase</strong> · <strong>Infrastructure Product</strong></p>
-      <p>
-        Proxy infrastructure product built for operators and teams that need clear pricing,
-        multi-region inventory, and a direct purchase flow.
-      </p>
-      <p>
-        面向运营团队与高频工作流场景的代理产品，强调清晰定价、多区域库存和直接购买体验，
-        核心代码保持私有。
-      </p>
-      <p><strong>Focus:</strong> datacenter, static ISP, rotating ISP, purchase flow, trust framing</p>
-      <p><strong>Surface:</strong> <a href="https://tensorproxies.com/">Website</a> · <a href="https://github.com/YSKM523/tensor-proxies">Public overview</a></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Modular_OS</h3>
-      <p><strong>Active Development</strong> · <strong>Private Source</strong> · <strong>B2B Operations Software</strong></p>
-      <p>
-        Production control software for modular construction teams, shaped around factory-floor execution,
-        WIP visibility, blocker handling, dispatch tracking, and realtime operations.
-      </p>
-      <p>
-        面向模块化建筑生产场景的控制软件，重点在车间执行、在制品可视化、阻塞处理、
-        派工跟踪和实时运营。
-      </p>
-      <p><strong>Stack:</strong> React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron</p>
-      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/modular-os-platform">Platform repo</a> · private source</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>hypebot-rs</h3>
-      <p><strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Rust Systems Project</strong></p>
-      <p>
-        Hyperliquid trading infrastructure built around typed pipelines, Tokio concurrency,
-        serialized execution, and runtime resilience.
-      </p>
-      <p>
-        面向外部展示的 Rust 交易系统项目，重点突出强类型管线、Tokio 并发模型、
-        执行纪律和长期运行稳定性。
-      </p>
-      <p><strong>Stack:</strong> Rust, Tokio, WebSocket, Reqwest, TOML</p>
-      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/hypebot-rust-architecture">Architecture repo</a> · private source</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>TaskMarket</h3>
-      <p><strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Marketplace Product</strong></p>
-      <p>
-        Campus task marketplace built around bid-based matching, realtime coordination,
-        order flow, and marketplace-style trust signals.
-      </p>
-      <p>
-        面向校园场景的任务平台，核心是竞价撮合、实时协同、订单流转，
-        以及比群聊和公告板更结构化的产品模型。
-      </p>
-      <p><strong>Stack:</strong> React, Node.js, Express, Socket.IO, Prisma</p>
-      <p><strong>Surface:</strong> <a href="https://github.com/YSKM523/taskmarket-overview">Overview repo</a> · private source</p>
-    </td>
-  </tr>
-</table>
+### Tensor Proxies
+
+**Live** · **Private Codebase** · **Infrastructure Product**
+
+Proxy infrastructure product built for operators and teams that need clear pricing, multi-region inventory, and a direct purchase flow.
+
+面向运营团队与高频工作流场景的代理产品，强调清晰定价、多区域库存和直接购买体验，核心代码保持私有。
+
+- Focus: datacenter, static ISP, rotating ISP, purchase flow, trust framing
+- Surface: [Website](https://tensorproxies.com/) · [Public overview](https://github.com/YSKM523/tensor-proxies)
+
+### Modular_OS
+
+**Active Development** · **Private Source** · **B2B Operations Software**
+
+Production control software for modular construction teams, shaped around factory-floor execution, WIP visibility, blocker handling, dispatch tracking, and realtime operations.
+
+面向模块化建筑生产场景的控制软件，重点在车间执行、在制品可视化、阻塞处理、派工跟踪和实时运营。
+
+- Stack: React, TypeScript, Vite, Express, Prisma, SQLite, Socket.IO, Electron
+- Surface: [Platform repo](https://github.com/YSKM523/modular-os-platform) · private source
+
+### hypebot-rs
+
+**Active Build** · **Private Source** · **Rust Systems Project**
+
+Hyperliquid trading infrastructure built around typed pipelines, Tokio concurrency, serialized execution, and runtime resilience.
+
+面向外部展示的 Rust 交易系统项目，重点突出强类型管线、Tokio 并发模型、执行纪律和长期运行稳定性。
+
+- Stack: Rust, Tokio, WebSocket, Reqwest, TOML
+- Surface: [Architecture repo](https://github.com/YSKM523/hypebot-rust-architecture) · private source
+
+### TaskMarket
+
+**Active Build** · **Private Source** · **Marketplace Product**
+
+Campus task marketplace built around bid-based matching, realtime coordination, order flow, and marketplace-style trust signals.
+
+面向校园场景的任务平台，核心是竞价撮合、实时协同、订单流转，以及比群聊和公告板更结构化的产品模型。
+
+- Stack: React, Node.js, Express, Socket.IO, Prisma
+- Surface: [Overview repo](https://github.com/YSKM523/taskmarket-overview) · private source
 
 ## Build Style | 做事方式
 
