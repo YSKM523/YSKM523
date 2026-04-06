@@ -119,9 +119,9 @@ Public-facing showcase for a modular construction production control console cur
 
 ### hypebot-rs
 
-Public-facing showcase for a private Rust-based Hyperliquid trading bot focused on long-running reliability, typed market pipelines, and disciplined execution flow.
+Public architecture repo for a private Rust-based Hyperliquid trading system focused on typed pipelines, Tokio concurrency, serialized execution, and runtime resilience.
 
-面向外部展示的 Rust 量化交易系统项目，源码保持私有，重点展示它在长期运行稳定性、强类型市场数据管线和执行纪律上的工程化设计。
+面向外部展示的 Rust 交易系统架构仓库，源码保持私有，重点突出强类型管线、Tokio 并发模型、执行纪律和长期运行稳定性。
 
 <p>
   <strong>Active Build</strong> · <strong>Private Source</strong> · <strong>Public Showcase</strong>
@@ -129,9 +129,9 @@ Public-facing showcase for a private Rust-based Hyperliquid trading bot focused 
 
 - Showcase repo: [YSKM523/hypebot-rust-architecture](https://github.com/YSKM523/hypebot-rust-architecture)
 - Source repo: private
-- Focus: Hyperliquid trading infrastructure, websocket resilience, serialized order execution, state persistence
-- Stack: Rust, Tokio, WebSocket, Reqwest, TOML config, Discord webhook notifications
-- Why it stands out: built more like a service system than a toy bot script
+- Focus: Hyperliquid trading infrastructure, typed event pipelines, serialized execution, runtime recovery
+- Stack: Rust, Tokio, WebSocket, Reqwest, TOML config
+- Edge: reads more like a systems project than a bot demo
 
 ## Operating Principles | 做事原则
 
