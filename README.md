@@ -2,7 +2,7 @@
   <img src="./assets/banner.jpg" alt="YSKM banner" width="100%" />
 </p>
 
-<h1 align="center">About me</h1>
+<h1 align="center">YSKM</h1>
 
 <p align="center">
   Founder-minded builder shipping AI tools, operator software, and small internet products with real utility.
