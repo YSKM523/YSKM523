@@ -38,6 +38,19 @@ This profile is not meant to be a dump of random repos. It is a curated layer ov
 
 ## Selected Products
 
+### Life Possibility Index
+
+你的人生，还剩多少种可能？一个自适应人生可能性测试，每个人看到的题目都不一样。
+
+<p>
+  <strong>Live</strong> · <strong>Private Codebase</strong> · <strong>Adaptive Quiz Engine</strong>
+</p>
+
+- Website: [life-possibility.pages.dev](https://life-possibility.pages.dev)
+- Public repo: [YSKM523/your-life-possibility](https://github.com/YSKM523/your-life-possibility)
+- Stack: Next.js, TypeScript, Tailwind CSS, Cloudflare Pages, D1
+- Edge: context-aware questions, hidden question triggers, persona system with rarity stats
+
 ### Tensor Proxies
 
 <p>
